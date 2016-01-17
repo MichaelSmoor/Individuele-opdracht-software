@@ -1,0 +1,21 @@
+﻿body {
+    margin-top: 60px;
+}
+
+.navbar-brand>img {
+    height: 150%;
+}
+
+@media (max-width: 768px) {
+    .input-group {
+        margin-bottom: 5px;
+    }
+}
+
+.form-control {
+    padding-bottom: 5px;
+}
+
+.padding-top-10 {
+    padding-top: 10px;
+}
