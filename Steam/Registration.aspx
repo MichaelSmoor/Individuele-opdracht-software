@@ -42,8 +42,8 @@
                             </div>
                         </div>
                         <br />
-                        <div class="col-md-8 center-block">
-                            <asp:button ID="btnRegister" runat="server" OnClick="Register" Text="Register" CssClass="btn"/>
+                        <div class="col-md-8">
+                            <asp:LinkButton runat="server" ID="btnRegister" OnClick="Register" CssClass="btn btn-default center-block">Register</asp:LinkButton>
                         </div>
                     </div>
                     <div class="col-md-4">

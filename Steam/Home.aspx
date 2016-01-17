@@ -21,7 +21,7 @@
                     set in a visually stunning fantasy universe, full of meaningful choices and impactful consequences.
                      In The Witcher, you play as Geralt of Rivia, a monster hunter tasked with finding a child from an ancient prophecy.
                 </p>
-                <button type="button" class="btn" data-toggle="dropdown">
+                <button type="button" class="btn btn-default" data-toggle="dropdown">
                     Store <span class="caret"></span>
                 </button>
                 <ul class="dropdown-menu" role="menu">

@@ -13,5 +13,10 @@ namespace Steam
         {
 
         }
+
+        protected void Commend(object sender, EventArgs e)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

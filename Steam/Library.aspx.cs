@@ -13,5 +13,10 @@ namespace Steam
         {
 
         }
+
+        protected void LoadGame(object sender, EventArgs e)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

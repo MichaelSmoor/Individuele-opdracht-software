@@ -13,5 +13,15 @@ namespace Steam
         {
 
         }
+
+        protected void btnBuy_OnClick(object sender, EventArgs e)
+        {
+            throw new NotImplementedException();
+        }
+
+        protected void AddWishlist(object sender, EventArgs e)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

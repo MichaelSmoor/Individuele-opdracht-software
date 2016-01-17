@@ -13,5 +13,10 @@ namespace Steam
         {
 
         }
+
+        protected void BuyWish(object sender, EventArgs e)
+        {
+            Response.Redirect("Store.aspx");
+        }
     }
 }
